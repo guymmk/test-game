@@ -11,6 +11,10 @@
 		{
 			"Name": "RemoteSession",
 			"Enabled": true
+		},
+		{
+			"Name": "EpicLeaderboard",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
